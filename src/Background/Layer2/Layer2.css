@@ -1,65 +1,65 @@
 .b1 {
-  position: fixed;
-  bottom: 0;
+  position: absolute;
+  bottom: 10vh;
   left: -12%;
   width: 0;
 	height: 0;
 	border-left: 15vw solid transparent;
 	border-right: 15vw solid transparent;
-	border-bottom: 40vh solid gray;
+	border-bottom: 40vh solid #37474F;
 }
 
 .b2 {
-  position: fixed;
-  bottom: 0;
+  position: absolute;
+  bottom: 10vh;
   left: 0%;
   width: 0;
 	height: 0;
 	border-left: 20vw solid transparent;
 	border-right: 20vw solid transparent;
-	border-bottom: 60vh solid gray;
+	border-bottom: 60vh solid #37474F;
 }
 
 .b3 {
-  position: fixed;
-  bottom: 0;
+  position: absolute;
+  bottom: 10vh;
   left: 10%;
   width: 0;
 	height: 0;
 	border-left: 30vw solid transparent;
 	border-right: 30vw solid transparent;
-	border-bottom: 40vh solid gray;
+	border-bottom: 40vh solid #37474F;
 }
 
 .b4 {
-  position: fixed;
-  bottom: 0;
+  position: absolute;
+  bottom: 10vh;
   left: 50%;
   width: 0;
 	height: 0;
 	border-left: 10vw solid transparent;
 	border-right: 10vw solid transparent;
-	border-bottom: 50vh solid gray;
+	border-bottom: 50vh solid #37474F;
 }
 
 .b5 {
-  position: fixed;
-  bottom: 0;
+  position: absolute;
+  bottom: 10vh;
   left: 55%;
   width: 0;
 	height: 0;
 	border-left: 20vw solid transparent;
 	border-right: 20vw solid transparent;
-	border-bottom: 40vh solid gray;
+	border-bottom: 40vh solid #37474F;
 }
 
 .b6 {
-  position: fixed;
-  bottom: 0;
+  position: absolute;
+  bottom: 10vh;
   left: 80%;
   width: 0;
 	height: 0;
 	border-left: 15vw solid transparent;
 	border-right: 15vw solid transparent;
-	border-bottom: 70vh solid gray;
+	border-bottom: 70vh solid #37474F;
 }
